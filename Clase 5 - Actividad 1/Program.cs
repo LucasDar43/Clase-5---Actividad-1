@@ -7,6 +7,15 @@ namespace actividad1
     {
         public static void Main(string[] args)
         {
+            /*
+            1 – Usando como modelo el ejemplo de la página 2, escribir un programa que 
+            permita cargar un arreglo de 10 posiciones enteras y realice las siguientes operaciones:
+            1.1	Averigüe el acumulado de todo el arreglo (sume todos sus elementos).
+            1.2	Averigüe qué elemento es el más grande. 
+            1.3	Averigüe qué elemento es el más chico.
+            1.4	Imprima por pantalla el arreglo pero desde el último elemento al primero.
+            */
+            
             int[] Vector = new int[10];
 
             Console.WriteLine("Ingrese los elementos del vector.");
